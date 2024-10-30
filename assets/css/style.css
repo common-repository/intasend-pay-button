@@ -1,0 +1,9 @@
+.intaSendCustomBtn {
+  background: #2cc1ee;
+  border-radius: 3px;
+  border: 1px solid #2cc1ee;
+  color: #fff;
+}
+.intaSendCustomBtn:hover {
+  cursor: pointer;
+}
